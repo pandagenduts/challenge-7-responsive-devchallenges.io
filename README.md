@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://bejewelled-florentine-50e6d4.netlify.app/" target="_blank">
+    <a href="https://snazzy-marshmallow-ab7c03.netlify.app/" target="_blank">
       Demo
     </a>
     <span> | </span>
@@ -51,7 +51,7 @@ Challenges i faced in this project:
 
    Not really, its kinda easy with JavaScript
 
-Check the [demo](https://bejewelled-florentine-50e6d4.netlify.app/) on how i did it :)
+Check the [demo](https://snazzy-marshmallow-ab7c03.netlify.app/) on how i did it :)
 
 ### Built With
 
