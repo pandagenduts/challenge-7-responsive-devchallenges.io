@@ -1,4 +1,4 @@
-<h2>On progress! Frequently check the demo/insight to see the progress</h2>
+<h2>Finished!</h2>
 
 <h1 align="center">Edie Homepage - Challenge 7 Responsive</h1>
 
