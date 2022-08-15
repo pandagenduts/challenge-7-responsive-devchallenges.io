@@ -36,14 +36,20 @@
 ## Overview
 
 Challenges i faced in this project:
-1. 'Meet the team' section, 
-The photo profile part is kinda hard to make it responsive. This boi take the most of my energy haha. but finally did it with grid
 
-2. The card active marker on hover
-It's a little challenging, but finally did it with JavaScript
+<strong>1. 'Meet the team' section</strong>
 
-3. The menu
-Not really, its kinda easy with JavaScript
+   The photo profile part is kinda hard to make it responsive. This boi take the most of my energy haha. but finally did it with grid
+   
+
+<strong>2. The card active marker on hover</strong>
+
+   It's a little challenging, but finally did it with JavaScript
+   
+
+<strong>3. The menu</strong>
+
+   Not really, its kinda easy with JavaScript
 
 Check the [demo](https://bejewelled-florentine-50e6d4.netlify.app/) on how i did it :)
 
