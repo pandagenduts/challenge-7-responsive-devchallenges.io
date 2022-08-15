@@ -35,6 +35,13 @@
 
 ## Overview
 
+I faced a lot of challenge in this project:
+1. 'Meet the team' section, 
+\tThe photo profile part is kinda hard to make it responsive. but finally did it with grid
+
+2. The card active marker on hover
+\tIt's a little challenging, but finally did it with JavaScript
+
 Check the [demo](https://bejewelled-florentine-50e6d4.netlify.app/) on how i did it :)
 
 ### Built With
@@ -47,9 +54,9 @@ Check the [demo](https://bejewelled-florentine-50e6d4.netlify.app/) on how i did
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/xobQBuf8zWWmiYMIAZe0) was to build a static HTML page to complete the following user stories:
 
-- [on progress] User story: I can see a page following the given design
-- [on progress] User story: I can see a page on mobile following the given design
-- [on progress] User story: I can go to certain locations by selecting links in navigation or footer
+- [x] User story: I can see a page following the given design
+- [x] User story: I can see a page on mobile following the given design
+- [x] User story: I can go to certain locations by selecting links in navigation or footer
 
 ## Contact
 
