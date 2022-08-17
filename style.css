@@ -63,11 +63,11 @@ header {
     color: var(--col-33);
     margin-bottom: 104px;
     align-items: center;
+    justify-content: space-between;
 }
 
 .site-logo {
     font-family: var(--font-heebo);
-    flex: 1;
     font-size: 36px;
     font-weight: 800;
     line-height: 52.88px;
@@ -357,60 +357,6 @@ section 4
     flex: 1.4;
     position: relative;
 }
-
-/*
-----------
-grid 2 
-----------
-*/
-/* .s-4__container-2 {
-    flex: auto;
-    position: relative;
-}
-
-.s-4__container-2 img {
-    border-radius: 24px;
-}
-
-.s-4__container-2__1 {
-    width: 50%;
-    position: absolute;
-    top: 0;
-    left: 0;
-}
-
-.s-4__container-2__2 {
-    width: 40%;
-    position: absolute;
-    bottom: 140px;
-    left: 55%;
-}
-
-.s-4__container-2__3 {
-    width: 45%;
-    position: absolute;
-    top: 140px;
-    left: 55%;
-}
-
-.s-4__container-2__1 img {
-    width: 100%;
-}
-
-.s-4__container-2__2 img {
-    width: 100%;
-}
-
-.s-4__container-2__3 img {
-    width: 100%;
-} */
-
-
-/*
-----------
-grid 3 
-----------
-*/
 
 h4 {
     font-size: 18px;
