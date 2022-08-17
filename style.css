@@ -42,6 +42,10 @@ body {
     color: var(--col-33);
 }
 
+body.active {
+    overflow: hidden;
+}
+
 a {
     text-decoration: none;
     color: inherit;
@@ -550,6 +554,7 @@ footer .credit {
 
 .hamburger {
     display: none;
+    cursor: pointer;
 }
 
 .bar {
@@ -582,6 +587,12 @@ footer .credit {
         transition: 0.3s ease-in-out;
 
         z-index: 10;
+    }
+
+    .s-1__top,
+    .s-1__bottom,
+    .section-2 h2 {
+        padding: 0 34px;
     }
 
     .hamburger {
@@ -713,12 +724,6 @@ footer .credit {
         font-size: 14px;
         line-height: 21px;
         top: 28px;
-    }
-    
-    .s-1__top,
-    .s-1__bottom,
-    .section-2 h2 {
-        padding: 0 34px;
     }
 
     .s-1__desc {

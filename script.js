@@ -1,6 +1,7 @@
 const navMenu = document.querySelector('nav');
 const hamburger = document.querySelector('.hamburger');
 const navMenuItem = document.querySelectorAll('nav a');
+const body = document.querySelector('body');
 
 const sectionTwoItems = document.querySelectorAll('.s-2__container div');
 const s2Container = document.querySelector('.section-2');
@@ -12,6 +13,12 @@ const s2Item3 = document.querySelector('#s2c3');
 hamburger.addEventListener('click', function(){
     navMenu.classList.toggle('active');
     hamburger.classList.toggle('active');
+    if (hamburger.classList.contains('active') == true){
+        body.classList.add('active');
+    }
+    else {
+        body.classList.remove('active');
+    }
 });
 
 navMenuItem.forEach(a => {
